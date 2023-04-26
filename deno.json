@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "std/": "https://deno.land/std@0.184.0/"
+  },
+  "tasks": {
+    "start": "deno --unstable run --allow-net --allow-write main.ts"
+  }
+}
